@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tabelionato-os-marketplace",
+  "description": "Marketplace oficial do plugin Tabelionato OS. Sistema operacional do tabelião de notas — do ato à defesa do titular.",
+  "owner": {
+    "name": "IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "tabelionato-os",
+      "source": "./tabelionato-os",
+      "description": "Tabelionato de Notas ponta a ponta: 61 skills em 9 camadas sobre a Lei 8.935/94, o Código Nacional de Normas (Prov. CNJ 149/2023) e as 27 corregedorias estaduais. Escritura, ata notarial, procuração, testamento e ato eletrônico; a sequência do ato e as cinco categorias de trava; desjudicialização (inventário, usucapião, adjudicação, arrematação); conformidade regulatória de IA em serventia; acervo digital; e a defesa técnica do delegatário em PAD. O motor UF-aware pergunta o estado antes de responder — porque só 4 UFs regularam IA em cartório, com posturas opostas.",
+      "author": {
+        "name": "IA Combativa"
+      }
+    }
+  ]
+}

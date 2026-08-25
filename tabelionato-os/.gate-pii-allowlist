@@ -1,0 +1,12 @@
+# Allowlist do gate G8 (PII) — SÓ precedentes PÚBLICOS citados como caso-âncora do produto.
+# Regra: número de decisão pública do CNJ, com órgão e matéria documentados em
+# context/precedentes-notariais.md. Nunca CPF, nunca OAB pessoal, nunca processo de cliente.
+# Uma string exata por linha.
+#
+# PCA do CNJ, Plenário — certidão fiscal é informação, não condição genérica para lavrar.
+# Fonte: context/precedentes-notariais.md, quadro de precedentes verificados:
+0001611-12.2023.2.00.0000
+#
+# PCA do CNJ, Plenário — procuração pública não tem prazo genérico de validade.
+# Fonte: context/precedentes-notariais.md, quadro de precedentes verificados:
+0007885-89.2023.2.00.0000

@@ -1,0 +1,8 @@
+{
+  "name": "tabelionato-os",
+  "version": "0.1.0",
+  "description": "Sistema operacional normativo para tabelionatos de notas, com roteamento federal e estadual.",
+  "author": {
+    "name": "IA Combativa"
+  }
+}
