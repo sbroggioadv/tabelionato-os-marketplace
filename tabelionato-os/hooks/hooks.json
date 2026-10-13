@@ -1,13 +1,15 @@
 {
-  "SessionStart": [
-    {
-      "hooks": [
-        {
-          "type": "command",
-          "command": "echo 'tabelionato-os carregado — base normativa com data de corte em 25/08/2026'",
-          "timeout": 5
-        }
-      ]
-    }
-  ]
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'tabelionato-os carregado — base normativa com data de corte em 25/08/2026'",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
 }
